@@ -7,7 +7,6 @@ tags:
 - tayri
 slug: yelha wurar
 date: 2018-12-19 12:03:02 +0000
-published: false
 
 ---
 Typography is a complex _system_ of interrelated styles. 100s of style declarations on dozens of elements must be in harmonious order. Trying one design change can mean making dozens of tedious recalculations and CSS value changes. Creating new Typography themes with CSS feels hard.
